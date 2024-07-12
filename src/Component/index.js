@@ -4,6 +4,7 @@ import faith from "./Images/faith.jpeg";
 function Component() {
   return (
     <div className="container">
+        <h1>Profile</h1>
       <div className="contents">
         <img className="image" src={faith} alt="Faith" />
         <div>
