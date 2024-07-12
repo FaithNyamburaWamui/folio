@@ -1,0 +1,52 @@
+.contents {
+  display: flex;
+  gap: 200px;
+  font-size: 20px;
+  justify-content: center;
+  padding: 10px 10px;
+  background-color: #33006F;
+  color: white;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
+
+.section {
+  display: flex;
+  margin-left: 15%;
+  gap: 150px;
+}
+.skills {
+  font-size: 16px;
+  margin-top: 60px;
+}
+
+.personal {
+  font-size: 17px;
+  margin-top: 60px;
+}
+
+.education {
+  font-size: 17px;
+  margin-top: 80px;
+}
+
+.project {
+  font-size: 17px;
+  margin-top: 80px;
+}
+
+.contact {
+  font-size: 17px;
+  margin-top: 50px;
+  background-color:#33006F;
+  color: white;
+  padding: 5px 5px;
+}
+
+.contact h2 {
+  font-size: 35px;
+}
